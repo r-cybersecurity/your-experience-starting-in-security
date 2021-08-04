@@ -17,10 +17,11 @@ First, please introduce yourself - cover something about your current/recent rol
 * How did you get interested in cybersecurity?
 * What was your first job in cybersecurity? When was that, and what were your responsibilities?
 * Did you have any degree(s), certifications, bootcamp experience, etc?
+* What were the most important technical skills that allowed you to succeed in that role?
+* What were the most important attributes and personality traits that allowed you to succeed in that role?
 * Were you working in tech or other fields before breaking into cybersecurity?
 * Would you recommend the path you took to get into cybersecurity? Are there cases where you *wouldn't* recommend it?
 * What are the top three things you think people considering cybersecurity careers should know about the field?
-* Are there particular traits or skills you think that cybersecurity professionals should cultivate?
 * What are some projects you'd recommend for people trying to figure out if [one or more of the first roles you've held] could be right for them?
 
 Please note: this is a work in progress and is not the final questionnaire list.
