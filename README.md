@@ -12,15 +12,25 @@ This is inspired by: https://lethain.com/my-career-story/ as a possible solution
 
 ### The questionnaire
 
-First, please introduce yourself - cover something about your current/recent role(s) to establish your credibility.
-
+About you:
+* Cover something about your current/recent role(s) to establish your credibility.
 * How did you get interested in cybersecurity?
+
+About your first job:
 * What was your first job in cybersecurity? When was that, and what were your responsibilities?
-* Did you have any degree(s), certifications, bootcamp experience, etc?
 * What were the most important technical skills that allowed you to succeed in that role?
 * What were the most important attributes and personality traits that allowed you to succeed in that role?
-* Were you working in tech or other fields before breaking into cybersecurity?
+
+About how you broke in:
+* What degrees, certifications, bootcamps, or field experience did you have at that time?
+  * If you have a tech or tech-adjacent degree: Were there other degrees you were considering at the time? Why did you choose the degree(s) you did?
+  * If you have a non-tech degree: How has your degree contributed to your career in cybersecurity?
+  * If you have certifications: What certifications were most impactful for advancing your knowledge or job hunt while breaking in?
+  * If you have bootcamp experience: [still thinking about this one]
+  * If you have prior experience: How did your field experience help you at the start of yout career in cybersecurity?
 * Would you recommend the path you took to get into cybersecurity? Are there cases where you *wouldn't* recommend it?
+
+Giving advice:
 * What are the top three things you think people considering cybersecurity careers should know about the field?
 * What are some projects you'd recommend for people trying to figure out if [one or more of the first roles you've held] could be right for them?
 
