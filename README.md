@@ -10,6 +10,8 @@ This is inspired by: https://lethain.com/my-career-story/ as a possible solution
   * That bio
   * A link to your blog post
 
+The blog post should roughly fit the questionnaire, but please add or subtract content as you see fit for flow, as well to cover important things that newcomers should know or you've been asked about prior.
+
 ### The questionnaire
 
 About you:
@@ -18,6 +20,7 @@ About you:
 
 About your first job:
 * What was your first job in cybersecurity? When was that, and what were your responsibilities?
+  * Consider quickly listing out common "topics" which people are often curious or worried about, such as: how much coding/IT/math/communication/etc. was involved.
 * What were the most important technical skills that allowed you to succeed in that role?
 * What were the most important attributes and personality traits that allowed you to succeed in that role?
 
@@ -34,4 +37,4 @@ Giving advice:
 * What are the top three things you think people considering cybersecurity careers should know about the field?
 * What are some projects you'd recommend for people trying to figure out if [one or more of the first roles you've held] could be right for them?
 
-Please note: this is a work in progress and is not the final questionnaire list.
+Please note: this is a work in progress and may be updated.
