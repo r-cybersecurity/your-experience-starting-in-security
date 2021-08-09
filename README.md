@@ -14,10 +14,6 @@ The blog post should roughly fit the questionnaire, but please add or subtract c
 
 ### The questionnaire
 
-About you:
-* Cover something about your current/recent role(s) to establish your credibility.
-* How did you get interested in cybersecurity?
-
 About your first job:
 * What was your first job in cybersecurity? When was that, and what were your responsibilities?
   * Consider quickly listing out common "topics" which people are often curious or worried about, such as: how much coding/IT/math/communication/etc. was involved.
@@ -37,5 +33,8 @@ About how you broke in:
 Giving advice:
 * What are the top three things you think people considering cybersecurity careers should know about the field?
 * What are some projects you'd recommend for people trying to figure out if [one or more of the first roles you've held] could be right for them?
+
+About the author:
+* Free space. Talk about the cool stuff you do now, all the ways people can find or follow you for research articles or hot memes. Don't be afraid to toot your own horn a bit. This is a long questionnaire if completed in depth and we - maintainers and readers alike - appreciate that you've taken the time to do this.
 
 Please note: this is a work in progress and may be updated.
