@@ -21,6 +21,7 @@ About you:
 About your first job:
 * What was your first job in cybersecurity? When was that, and what were your responsibilities?
   * Consider quickly listing out common "topics" which people are often curious or worried about, such as: how much coding/IT/math/communication/etc. was involved.
+  * Be sure to explain how your role fits into the broader security field, ex. DevSecOps puts security into the software development lifecycle, which tightly integrates security and software development efforts, etc. This may not be obvious to outsiders.
 * What were the most important technical skills that allowed you to succeed in that role?
 * What were the most important attributes and personality traits that allowed you to succeed in that role?
 
