@@ -1,4 +1,4 @@
-# how-mentors-began-in-security
+# your-experience-starting-in-security
 This is an invite-only program for positive members of r/cybersecurity to create a shortish article detailing how they broke in to security, where they are now, and what people should know about the field. We would want those hosted on your blog, **not** CC licensed (I mean, if you really want to, I'm not stopping you?), and we will provide a link to those plus a short bio about you in an r/cybersecurity wiki page.
 
 This is inspired by: https://lethain.com/my-career-story/ as a possible solution to our need to express that people take many winding paths into security, because a lot of people are looking for the "one true way," and there truly isn't one.
