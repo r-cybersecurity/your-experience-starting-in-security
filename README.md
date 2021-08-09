@@ -10,7 +10,7 @@ This is inspired by: https://lethain.com/my-career-story/ as a possible solution
   * That bio
   * A link to your blog post
 
-The blog post should roughly fit the questionnaire, but please add or subtract content as you see fit for flow, as well to cover important things that newcomers should know or you've been asked about prior.
+The blog post should roughly fit the questionnaire, but please add or subtract content as you see fit for flow or to cover important things that newcomers should know.
 
 ### The questionnaire
 
