@@ -28,7 +28,7 @@ About how you broke in:
   * If you have certifications: What certifications were most impactful for advancing your knowledge or job hunt while breaking in?
   * If you have bootcamp experience: [still thinking about this one]
   * If you have prior experience: How did your field experience help you at the start of yout career in cybersecurity?
-* Out of degrees, certifications, bootcamps, and field experience; what mattered the most for obtaining your role?
+* Out of degrees, certifications, bootcamps, and field experience: what mattered the most for obtaining your role?
 * Would you recommend the path you took to get into cybersecurity? Are there cases where you *wouldn't* recommend it?
 
 Giving advice:
