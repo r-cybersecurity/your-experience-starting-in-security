@@ -1,7 +1,8 @@
 # your-experience-starting-in-security
-This is an invite-only program for positive members of r/cybersecurity to create a shortish article detailing how they broke in to security, where they are now, and what people should know about the field. We would want those hosted on your blog, **not** CC licensed (I mean, if you really want to, I'm not stopping you?), and we will provide a link to those plus a short bio about you in an r/cybersecurity wiki page.
 
-This is inspired by: https://lethain.com/my-career-story/ as a possible solution to our need to express that people take many winding paths into security, because a lot of people are looking for the "one true way," and there truly isn't one.
+This is an invite-only program for positive members of r/cybersecurity to create an article detailing how they broke in to security, where they are now, and what people should know about the field. We would want those hosted on your blog, **not** CC licensed (I mean, if you really want to, I'm not stopping you?), and we will provide a link to those plus a short bio about you in an r/cybersecurity wiki page (and potentially in other situations as well).
+
+This is inspired by: https://lethain.com/my-career-story/ as a possible solution to our need to express that people take many winding paths into security, because a lot of people are looking for the "one true way," and there truly isn't one. These should be detailed and broad, perhaps a bit rambly, to try to give readers context about your experience and the cybersecurity field as a whole.
 
 ### To submit a response
 
@@ -10,7 +11,7 @@ This is inspired by: https://lethain.com/my-career-story/ as a possible solution
   * That bio
   * A link to your blog post
 
-The blog post should roughly fit the questionnaire, but please add or subtract content as you see fit for flow or to cover important things that newcomers should know.
+The blog post should roughly fit the questionnaire, but please add or subtract content as you see fit for flow or to cover important things that newcomers should know. If there's anything outside of this list you think *all* respondants should answer, please open an issue, and we'll add it (people who have already written their article won't be expected to add it though).
 
 ### The questionnaire
 
@@ -20,6 +21,7 @@ About your first job:
 * Can you discuss some specific tasks you did, or goals you contributed towards? 
 * What were the most important technical skills that allowed you to succeed in that role?
 * What were the most important attributes and personality traits that allowed you to succeed in that role?
+* What did you like about that job? Is there anything you didn’t like?
 
 About how you broke in:
 * What degrees, certifications, bootcamps, or field experience did you have at that time?
@@ -32,12 +34,9 @@ About how you broke in:
 * Would you recommend the path you took to get into cybersecurity? Are there cases where you *wouldn't* recommend it?
 
 Giving advice:
-* What are the top three things you think people considering cybersecurity careers should know about the field?
-* What are some projects you'd recommend for people trying to figure out if [your role] could be right for them?
 * If coding was a big part of your role: What coding languages would you recommend people learn to be best-prepared for [your role]?
-
+* What are some projects you'd recommend for people trying to figure out if [your role] could be right for them?
+* What are the top three things you think people considering cybersecurity careers should know about the field?
 
 About the author:
 * Free space. Talk about the cool stuff you do now, all the ways people can find or follow you for research articles or hot memes. Don't be afraid to toot your own horn a bit. This is a long questionnaire if completed in depth and we - maintainers and readers alike - appreciate that you've taken the time to do this.
-
-Please note: this is a work in progress and may be updated.
