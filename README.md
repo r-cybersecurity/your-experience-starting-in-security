@@ -45,8 +45,8 @@ About how you broke in:
 
 Giving advice:
 * What are the top three things you think people considering cybersecurity careers should know about the field?
-* If coding was a big part of your role: What coding languages would you recommend people learn to be best-prepared for [your role]?
-* What are some projects you'd recommend for people trying to figure out if [your role] could be right for them?
+* If coding was a big part of your role: What coding languages would you recommend people learn to be best-prepared for [your first role]?
+* What are some projects you'd recommend for people trying to figure out if [your first role] could be right for them?
 * What do you think readers should take away from this series?
 
 About the author:
