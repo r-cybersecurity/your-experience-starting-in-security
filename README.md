@@ -17,7 +17,7 @@ Outside of the obvious benefit of "we'll put a link and bio for you in a moderat
 ### To submit a response
 
 * Write a short **beginner-friendly** summary about your role, a minimum of 3 sentences, and no more than 5-7.
-* Submit an issue containing:
+* Submit an issue ([example](https://github.com/r-cybersecurity/your-experience-starting-in-security/issues/1)) containing:
   * That summary (to explain what your role does in the directory, so people don't have to click to find out)
   * A link to your blog post
 
