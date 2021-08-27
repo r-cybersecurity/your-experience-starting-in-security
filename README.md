@@ -12,7 +12,7 @@ My hope with these is that we can build a library of different parts of cybersec
 
 We're going to try to favor people who recently or semi-recently broke into the cybersecurity field instead of big-name security celebrities or now-director-level folks. Their experience is welcome of course, but the focus should be on what the 'contemporary' experience breaking in to cybersecurity is (and if this elevates generous community members with smaller platforms, even better).
 
-Outside of the obvious benefit of "we'll put a link and bio for you in a moderate-viewership area," we may also be able to post these in a "feature of the week" in the Mentorship Monday thread or similar. This will take several hours at least to write out, and we want to ensure your efforts are rewarded, on top of the self-promotion you can do on your own.
+Outside of the obvious benefit of "we'll put links for your page in a moderate-viewership area," we may also be able to post these in a "feature of the week" in the Mentorship Monday thread or similar. This will take several hours at least to write out, and we want to ensure your efforts are rewarded, on top of the self-promotion you can do on your own.
 
 ### To submit a response
 
