@@ -16,9 +16,9 @@ Outside of the obvious benefit of "we'll put a link and bio for you in a moderat
 
 ### To submit a response
 
-* Write a short **beginner-friendly** summary about your role, a minimum of 3 sentences, and no more than 5-7.
+* Write a **short, beginner-friendly** summary about your first role, a minimum of 3 sentences, and no more than 5-7.
 * Submit an issue ([example](https://github.com/r-cybersecurity/your-experience-starting-in-security/issues/1)) containing:
-  * That summary (to explain what your role does in the directory, so people don't have to click to find out)
+  * That summary (so people don't have to click to find out the basics about your first role)
   * A link to your blog post
 
 The blog post should roughly fit the questionnaire, but please add or subtract content as you see fit for flow or to cover important things that newcomers should know. If there's anything outside of this list you think *all* respondants should answer, please open an issue, and we'll add it (people who have already written their article won't be expected to add it though).
