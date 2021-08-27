@@ -2,7 +2,17 @@
 
 This is an invite-only program for positive members of r/cybersecurity to create an article detailing how they broke in to security, where they are now, and what people should know about the field. We would want those hosted on your blog, **not** CC licensed (I mean, if you really want to, I'm not stopping you?), and we will provide a link to those plus a short bio about you in an r/cybersecurity wiki page (and potentially in other situations as well).
 
+### What is this?
+
 This is inspired by: https://lethain.com/my-career-story/ as a possible solution to our need to express that people take many winding paths into security, because a lot of people are looking for the "one true way," and there truly isn't one. These should be detailed and broad, perhaps a bit rambly, to try to give readers context about your experience and the cybersecurity field as a whole.
+
+My hope with these is that we can build a library of different parts of cybersecurity and show peoples' experiences in a more comprehensive and complete way, then allow readers to draw their own conclusions.
+
+### Why would I want to do this?
+
+We're going to try to favor people who recently or semi-recently broke into the cybersecurity field instead of big-name security celebrities or now-director-level folks. Their experience is welcome of course, but the focus should be on what the 'contemporary' experience breaking in to cybersecurity is (and if this elevates generous community members with smaller platforms, even better).
+
+Outside of the obvious benefit of "we'll put a link and bio for you in a moderate-viewership area," we may also be able to post these in a "feature of the week" in the Mentorship Monday thread or similar. This will take several hours at least to write out, and we want to ensure your efforts are rewarded, on top of the self-promotion you can do on your own.
 
 ### To submit a response
 
@@ -34,9 +44,10 @@ About how you broke in:
 * Would you recommend the path you took to get into cybersecurity? Are there cases where you *wouldn't* recommend it?
 
 Giving advice:
+* What are the top three things you think people considering cybersecurity careers should know about the field?
 * If coding was a big part of your role: What coding languages would you recommend people learn to be best-prepared for [your role]?
 * What are some projects you'd recommend for people trying to figure out if [your role] could be right for them?
-* What are the top three things you think people considering cybersecurity careers should know about the field?
+* What do you think readers should take away from this series?
 
 About the author:
 * Free space. Talk about the cool stuff you do now, all the ways people can find or follow you for research articles or hot memes. Don't be afraid to toot your own horn a bit. This is a long questionnaire if completed in depth and we - maintainers and readers alike - appreciate that you've taken the time to do this.
