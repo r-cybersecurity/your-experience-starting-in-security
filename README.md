@@ -1,6 +1,6 @@
 # your-experience-starting-in-security
 
-This is an invite-only program for positive members of r/cybersecurity to create an article detailing how they broke in to security, where they are now, and what people should know about the field. We would want those hosted on your blog, **not** CC licensed (I mean, if you really want to, I'm not stopping you?), and we will provide a link to those plus a short bio about you in an r/cybersecurity wiki page (and potentially in other situations as well).
+This is an invite-only program for positive members of r/cybersecurity, r/SecurityCareerAdvice, etc. to create an article detailing how they broke in to security, where they are now, and what people should know about the field. We would want those hosted on your blog, in a GitHub gist, or whatever works best for you - and we will provide a link to those plus a short bio about you in a handful of situations.
 
 ### What is this?
 
@@ -13,6 +13,10 @@ My hope with these is that we can build a library of different parts of cybersec
 We're going to try to favor people who recently or semi-recently broke into the cybersecurity field instead of big-name security celebrities or now-director-level folks. Their experience is welcome of course, but the focus should be on what the 'contemporary' experience breaking in to cybersecurity is (and if this elevates generous community members with smaller platforms, even better).
 
 Outside of the obvious benefit of "we'll put links for your page in a moderate-viewership area," we may also be able to post these in a "feature of the week" in the Mentorship Monday thread or similar. This will take several hours at least to write out, and we want to ensure your efforts are rewarded, on top of the self-promotion you can do on your own.
+
+### How is this licensed?
+
+**This repository** is CC BY-NC-SA 4.0 licensed, so external parties (such as other subreddits, etc.) can publish/modify/adapt/etc. the contents of this repository - typically to help explain the variations in the cybersecurity field. **Contributor works that are linked to by this repository** are not expected to be licensed in any way.
 
 ### To submit a response
 
