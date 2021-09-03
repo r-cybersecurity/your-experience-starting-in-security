@@ -1,4 +1,4 @@
-### Threat Intelligence
+### Threat Intelligence Analyst
 
 * Author: u/CrowGrandFather
 * Description: Threat Intelligence is a complementary service to help guide security operations. A threat intelligence analyst can be expected to research indicators of compromise, read reporting, and provide actionable courses of action. Threat Intelligence is incredibly difficult to do well but it a great place to learn the ins and outs of SOC work without the high stakes fast paced action of SOC work. I started in threat intelligence and I'm managing an incident response team now.
